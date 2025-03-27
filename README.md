@@ -1,4 +1,4 @@
-This lab assignment consists of five exercises. 
+This Numerical Methods with MATLAB lab assignment consists of five exercises. 
 
 They surround the following topics:
 * Numerical Differentiation (methods: Second and Fourth order central difference formulas)
@@ -7,6 +7,4 @@ They surround the following topics:
 * Numerical Integration (methods: Trapezoidal, Simpson's rule)
 * Numerical Solution of Differential Equations (methods: ODE-solver, 4th order Runge-Kutta)
  
-Matlab scripts included in the repository.
-
-
+MATLAB scripts are included in the repository.
